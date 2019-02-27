@@ -1,0 +1,24 @@
+{
+  "name": "basebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.0.0-dev",
+    "ezcmdsrewrite": "github:SavageExploitz/ezcmds"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SavageExploitz/base.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SavageExploitz/base/issues"
+  },
+  "homepage": "https://github.com/SavageExploitz/base#readme"
+}
